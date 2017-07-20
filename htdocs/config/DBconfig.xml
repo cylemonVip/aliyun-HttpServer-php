@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mysql>
+    <!-- 为防止出现意外，请按照此标准顺序书写.其实也无所谓了 -->
+    <host>bdm29971491.my3w.com</host>
+    <user>bdm29971491</user>
+    <password>c649605210</password>
+    <db>bdm29971491_db</db>
+    <port>3306</port>
+</mysql>
